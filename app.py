@@ -41,12 +41,6 @@ st.caption(
     "Short-Term + Long-Term Memory • Guardrails"
 )
 
-now = get_india_time()
-
-st.caption(
-    "Current India Time: "
-    f"{now.strftime('%d-%m-%Y %I:%M:%S %p')} IST"
-)
 
 
 # --------------------------------------------------
